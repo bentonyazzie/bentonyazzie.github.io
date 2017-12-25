@@ -4,13 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-Benton Yazzie is a self-taught Navajo painter and illustrator. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. 
+Benton Yazzie is a self-taught Navajo painter and illustrator based in the four corners region of Colorado. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. 
 
-Yazzie's artistic ability developed out of a childhood spent in isolation and poverty on the Navajo reservation. Many nights were spent drawing on scraps of paper by kerosene lamp. 
+Yazzie's artistic ability developed out of a childhood spent in isolation and poverty on the Navajo reservation. Many nights were spent drawing on scraps of paper by a kerosene lamp. His paintings are personal expressions of his life. Despite the hardships he experienced, he seeks to express the glory of the Creator through his art.
 
-His paintings are personal expressions of his life, hardships and his longing to express the glory of the Creator. His paintings reflect the tension between the old ways of his people (The 'Dine') and 
+Yazzie's paintings reflect the tension between the old ways of his people (The 'Dine') and the increasingly fast-paced, technological world of modern living. He uses both native and abstract symbolism to portray the struggle of a people caught between two worlds: the world of their ancestors and the world of their children. 
 
-He employs modern and abstract symbolism to portray 
-     
-
-His paintings reflect the old ways of his people (The 'Dine’) with modern and abstract symbolism mixed in to portray how he and his people live in two worlds: one on the reservation, the other in a fast moving and modern society. His illustrations have been published in books currently being sold on Amazon: Shaman and the Water Serpent and the Navajo and the Animals. Benton is currently teaching and using art to help Native Americans in recovery while pursing a studio of his own.
+Yazzie is now teaching art to native Americans in recovery while pursuing a studio of his own. He has illustrated two books currently available on Amazon: The Shaman and the Water Serpent, and The Navajo and the Animals.
