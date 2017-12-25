@@ -14,5 +14,6 @@ description: 'Original art by Benton Yazzie.
 '
 baseurl: "/"
 url: http://bentonyazzie.com
+facebook_username: bentonyazzieart
 markdown: kramdown
 permalink: pretty
