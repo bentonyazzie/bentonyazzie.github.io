@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-     Benton Yazzie is a self-taught Navajo painter and illustrator. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. 
-     Yazzie's artistic ability developed out of a childhood spent in isolation and poverty on the Navajo reservation. Many nights were spent drawing on scraps of paper by kerosene lamp. 
-     His paintings are personal expressions of his life, hardships and his longing to express the glory of the Creator. His paintings reflect the tension between the old ways of his people (The 'Dine') and 
+\tBenton Yazzie is a self-taught Navajo painter and illustrator. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. 
+\tYazzie's artistic ability developed out of a childhood spent in isolation and poverty on the Navajo reservation. Many nights were spent drawing on scraps of paper by kerosene lamp. 
+\tHis paintings are personal expressions of his life, hardships and his longing to express the glory of the Creator. His paintings reflect the tension between the old ways of his people (The 'Dine') and 
 
 He employs modern and abstract symbolism to portray 
      
