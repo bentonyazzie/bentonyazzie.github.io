@@ -7,3 +7,5 @@ preview: "/uploads/Dragonfly.jpg"
 ![Dragonfly.jpg](/uploads/Dragonfly.jpg)
 
 Dragonfly by Benton Yazzie.
+
+This is a painting with a dragonfly
