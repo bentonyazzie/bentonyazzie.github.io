@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![DSCN1072.JPG](/uploads/DSCN1072.JPG =250x250) Benton Yazzie is a self-taught Navajo painter and illustrator based in the four corners region of Colorado. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. 
+Benton Yazzie is a self-taught Navajo painter and illustrator based in the four corners region of Colorado. He is the son of the Tachii’nii (Red Running into the Water) and the Bit’ahnii (Folded Arms People) clans. He works primarily with pen and ink as well as acrylic and oil base.
 
 Yazzie's artistic ability developed out of a childhood spent in isolation and poverty on the Navajo reservation. Many nights were spent drawing on scraps of paper by a kerosene lamp. His paintings are personal expressions of his life both on and off the reservation. Despite the hardships he experienced, he seeks to illustrate the glory of the Creator in his art.
 
@@ -12,3 +12,4 @@ Yazzie's paintings reflect the tension between the old ways of his people (The '
 
 Yazzie is now teaching art to native Americans in recovery while pursuing a studio of his own. He has illustrated two books currently available on Amazon: The Shaman and the Water Serpent, and The Navajo and the Animals.
 
+![DSCN1072.JPG](/uploads/DSCN1072.JPG)
