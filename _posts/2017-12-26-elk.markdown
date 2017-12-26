@@ -1,0 +1,9 @@
+---
+title: Elk
+date: 2017-12-26 01:15:00 Z
+preview: "/uploads/BentonElk2.jpg"
+---
+
+![BentonElk2.jpg](/uploads/BentonElk2.jpg)
+
+Elk by Benton Yazzie.
