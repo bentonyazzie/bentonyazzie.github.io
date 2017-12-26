@@ -1,0 +1,9 @@
+---
+title: Montana
+date: 2017-12-26 01:39:00 Z
+preview: "/uploads/Benton%20011.JPG"
+---
+
+![Benton 011.JPG](/uploads/Benton%20011.JPG)
+
+Montana by Benton Yazzie.
