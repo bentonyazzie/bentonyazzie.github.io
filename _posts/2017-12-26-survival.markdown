@@ -1,0 +1,9 @@
+---
+title: Suvival
+date: 2017-12-26 01:22:00 Z
+preview: "/uploads/Survival.jpg"
+---
+
+![Survival.jpg](/uploads/Survival.jpg)
+
+Survival by Benton Yazzie.
