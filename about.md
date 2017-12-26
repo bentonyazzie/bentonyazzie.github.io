@@ -11,3 +11,5 @@ Yazzie's artistic ability developed out of a childhood spent in isolation and po
 Yazzie's paintings reflect the tension between the old ways of his people (The 'Dine') and the increasingly fast-paced, technological world of modern living. He uses both native and abstract symbolism to portray the struggle of a people caught between two worlds: the world of their ancestors and the world of their children. 
 
 Yazzie is now teaching art to native Americans in recovery while pursuing a studio of his own. He has illustrated two books currently available on Amazon: The Shaman and the Water Serpent, and The Navajo and the Animals.
+
+![DSCN1072.JPG](/uploads/DSCN1072.JPG)
