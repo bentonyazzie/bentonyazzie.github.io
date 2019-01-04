@@ -1,9 +1,9 @@
 ---
-title: Bic
+title: Skill Bic
 date: 2018-08-22 05:23:00 Z
 preview: "/uploads/bic.jpg"
 ---
 
 ![bic.jpg](/uploads/bic.jpg)
 
-Bic by Benton Yazzie.
+Skill Bic by Benton Yazzie.
